@@ -5,7 +5,7 @@ import org.apache.log4j.Logger;
 public class Module1Class {
 	static Logger log = Logger.getLogger("Maven Parent");
 	public boolean doSomething() {
-		log.debug("MODULE ONE (1) NOW DOES THIS COMPLETELY NEW KIND OF THING");
+		log.debug("MODULE ONE (1) NOW DOES THIS COMPLETELY NEW KIND OF THING and it does it in GIT");
 		return true;
 	}
 	
