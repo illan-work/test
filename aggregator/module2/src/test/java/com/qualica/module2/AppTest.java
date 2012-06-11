@@ -37,6 +37,6 @@ public class AppTest
     public void testApp()
     {
     	
-       assert new Module2Class().doSomething() && new Module1Class().doSomething();
+       assert new Module2Class().doSomething();
     }
 }

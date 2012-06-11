@@ -10,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {	    	
-       new Module1Class().doSomething();    	
+  	
        new Module2Class().doSomething();
     }
 }
